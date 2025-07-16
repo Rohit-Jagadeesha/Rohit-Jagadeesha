@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rohit J
+## Hi there 👋 I'm Rohit 
 
 <!--
 **Rohit-Jagadeesha/Rohit-Jagadeesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,17 +13,64 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-🎓 NIE'26 | Electronics & Communication Engineer  
-🚀 Former Intern @ ISRO-URSC | VLSI & Embedded Systems Enthusiast  
-📍 Mysuru, Karnataka, India  
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/rohitj264)](https://linkedin.com/in/rohitj264)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/RohitJ1204)](https://github.com/Rohit-Jagadeesha)
+-->
+
+### ✨ About Me
+
+```yaml
+Rohit :
+  pronouns: "he" | "him"
+  located_in: Mysuru, India
+  title: "VLSI & Embedded Systems Enthusiast"
+
+  skills:
+    - RTL Design: [ Verilog, SystemVerilog, Testbenches ]
+    - Analog Design: [ Biasing, Amplifiers, Op-Amps ]
+    - Layout Design: [ Cadence Virtuoso, Custom Layout, Matching Techniques ]
+    - Verification: [ DRC, LVS ]
+    - Programming: [ C, Python ]
+
+  education:
+    - "Bachelor's in Electronics and Communication Engineering"
+    - "The National Institute of Engineering, Mysuru"
+    - 2022 - 2026
+
+  technical_experience:
+    - "Student Intern – Control Systems Group, ISRO-URSC"
+    - "Project – Software Cycle Flag Generation using FPGA"
+    - "Multiple RTL and ASIC Flow Projects using Cadence, Vivado"
+
+  fields_of_interest:
+    - Analog Layout & Physical Design
+    - RTL Design and ASIC Flow
+    - Embedded Systems
+
+ professional_affiliations:
+      -  Student_Member: "IEEE CAS (Institute of Electrical and Electronics Engineers Circuit And Sysytem)"
+      -  Student_Member: "IEEE GRSS (Institute of Electrical and Electronics Engineers Geoscience and Remote Sensing Society)"
+
+  goals_2025:
+    - Deepen knowledge of analog circuit layout best practices
+    - Master DRC/LVS and parasitic-aware layout techniques
+    - Explore mixed-signal and custom layout design flows
+
+  certifications:
+    - "Introduction to Semiconductor Devices"
+    - "FPGA Design for Embedded Systems"
+    - "Custom Projects with Raspberry Pi"
+
+  hobbies: ["Circuit Hacking", "Technology Blogs", "Cricket"]
+
+  contact:
+    - Gmail: "jrohit0812@gmail.com"
+    - LinkedIn: "https://www.linkedin.com/in/rohitj264"
+    - GitHub: "https://github.com/RohitJ1204"
+```
 
 ---
+
 
 ## 🔧 Skills & Tools
 
@@ -80,7 +127,7 @@ A personal repository of reusable Verilog HDL modules and testbenches. Ideal for
 ## 📫 Contact
 
 📧 Email: jrohit0812@gmail.com  
-🌐 GitHub: [RohitJ1204](https://github.com/Rohit-Jagadeesha)  
+🌐 GitHub: [RohitJ](https://github.com/Rohit-Jagadeesha)  
 🔗 LinkedIn: [rohitj264](https://linkedin.com/in/rohitj264)
 
 ---
@@ -93,4 +140,6 @@ A personal repository of reusable Verilog HDL modules and testbenches. Ideal for
 - 🧪 Gain hands-on experience with **DRC (Design Rule Check)** and **LVS (Layout vs Schematic)** to ensure layout integrity
 - 🏗️ Explore **Analog-Mixed Signal (AMS) Verification** methodologies for real-world design reliability
 - 🛠️ Build end-to-end layout flows for analog blocks like current mirrors, differential pairs, and op-amps
+
+
 
