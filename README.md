@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-🎓 NIE'26 | Electronics & Communication Engineering  
+🎓 NIE'26 | Electronics & Communication Engineer  
 🚀 Former Intern @ ISRO-URSC | VLSI & Embedded Systems Enthusiast  
 📍 Mysuru, Karnataka, India  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/rohitj264)](https://linkedin.com/in/rohitj264)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/RohitJ1204)](https://github.com/RohitJ1204)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/RohitJ1204)](https://github.com/Rohit-Jagadeesha)
 
 ---
 
