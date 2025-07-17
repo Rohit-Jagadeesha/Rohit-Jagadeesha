@@ -127,8 +127,8 @@ A personal repository of reusable Verilog HDL modules and testbenches. Ideal for
 ## 📫 Contact
 
 📧 Email: jrohit0812@gmail.com  
-🌐 GitHub: [RohitJ](https://github.com/Rohit-Jagadeesha)  
-🔗 LinkedIn: [rohitj264](https://linkedin.com/in/rohitj264)
+🌐 GitHub: [Rohit J](https://github.com/Rohit-Jagadeesha)  
+🔗 LinkedIn: [Rohit J](https://linkedin.com/in/rohitj264)
 
 ---
 
